@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-calculator.canale.dev/static/css/main.34662485.css",
-    "main.js": "/react-calculator.canale.dev/static/js/main.f52cae35.js",
-    "static/js/787.53621415.chunk.js": "/react-calculator.canale.dev/static/js/787.53621415.chunk.js",
-    "static/media/RobotoMono-Thin.ttf": "/react-calculator.canale.dev/static/media/RobotoMono-Thin.30914900129fa3d2d85b.ttf",
-    "index.html": "/react-calculator.canale.dev/index.html",
-    "main.34662485.css.map": "/react-calculator.canale.dev/static/css/main.34662485.css.map",
-    "main.f52cae35.js.map": "/react-calculator.canale.dev/static/js/main.f52cae35.js.map",
-    "787.53621415.chunk.js.map": "/react-calculator.canale.dev/static/js/787.53621415.chunk.js.map"
+    "main.css": "/static/css/main.3513c2a2.css",
+    "main.js": "/static/js/main.60dfeead.js",
+    "static/js/787.53621415.chunk.js": "/static/js/787.53621415.chunk.js",
+    "static/media/RobotoMono-Thin.ttf": "/static/media/RobotoMono-Thin.30914900129fa3d2d85b.ttf",
+    "index.html": "/index.html",
+    "main.3513c2a2.css.map": "/static/css/main.3513c2a2.css.map",
+    "main.60dfeead.js.map": "/static/js/main.60dfeead.js.map",
+    "787.53621415.chunk.js.map": "/static/js/787.53621415.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.34662485.css",
-    "static/js/main.f52cae35.js"
+    "static/css/main.3513c2a2.css",
+    "static/js/main.60dfeead.js"
   ]
 }
