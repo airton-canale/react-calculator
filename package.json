@@ -1,7 +1,7 @@
 {
   "name": "react-calculator",
   "version": "0.1.0",
-  "homepage": "react-calculator.canale.dev",
+  "homepage": "https://react-calculator.canale.dev",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
