@@ -34,9 +34,7 @@
 
 
  ```bash
-# Install library to deploy
-$ npm install -D gh-pages
-
+ 
 # Running deploy
 $ npm run deploy
 ```
