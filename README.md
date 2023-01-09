@@ -28,7 +28,7 @@
 <br>
 
 ## 🚀 Deploy
- -  https://airton-canale.github.io/react-calculator/
+ -  https://react-calculator.canale.dev
 
  - This application was deployed with Github Pages library 
 
